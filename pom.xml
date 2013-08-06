@@ -26,4 +26,13 @@
     <url>git@github.com:clojure/tools.namespace.git</url>
     <tag>tools.namespace-0.2.4</tag>
   </scm>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.tcrawley</groupId>
+      <artifactId>dynapath</artifactId>
+      <version>0.2.3</version>
+    </dependency>
+  </dependencies>
+
 </project>
