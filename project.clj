@@ -1,4 +1,4 @@
-(defproject org.clojars.jcrossley3/tools.namespace "0.2.4.1"
+(defproject org.clojars.jcrossley3/tools.namespace "0.2.4.2-SNAPSHOT"
   :description "Modified to work anywhere dynapath does"
   :url "https://github.com/jcrossley3/tools.namespace"
   :license {:name "Eclipse Public License"
